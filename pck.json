@@ -8,7 +8,7 @@
   },
   "author": "", 
   "license": "isc",
-  "devDependencies": {
+  "devDependencies": { 
     "parcel": "^2.7.0"
   }
 }
