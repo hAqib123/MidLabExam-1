@@ -5,7 +5,7 @@
   "scripts": {
     "start": "parcel ./*.html ",
     "build": "parcel build ./*.html  --dist-dir ./build"
-  },
+  }, 
   "author": "", 
   "license": "isc",
   "devDependencies": { 
